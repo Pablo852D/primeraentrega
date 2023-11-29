@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "gabinete",
+    "description": "gabinete para exterior",
+    "code": "P001",
+    "price": 1200,
+    "status": true,
+    "stock": 100,
+    "category": "PVC",
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "pinza universal",
+    "description": "pinza de 6mm",
+    "code": "P002",
+    "price": 6500,
+    "status": true,
+    "stock": 50,
+    "category": "Herammienta",
+    "thumbnails": [
+      "imagen3.jpg",
+      "imagen4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "cable 2.5",
+    "description": "cable aislado",
+    "code": "P003",
+    "price": 17000,
+    "status": true,
+    "stock": 75,
+    "category": "Electricidad",
+    "thumbnails": []
+  }
+]
